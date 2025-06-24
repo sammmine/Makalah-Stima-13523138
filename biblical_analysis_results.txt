@@ -1,0 +1,489 @@
+================================================================================
+BIBLICAL TEXT ANALYSIS RESULTS
+================================================================================
+Total verses analyzed: 42,700
+================================================================================
+
+Search Algorithm Used: BOYER_MOORE
+--------------------------------------------------------------------------------
+
+THEME 1: COVENANT/PROMISE
+========================================
+
+Keywords searched: covenant, promise, oath, agreement, blessing, testament
+
+Found 693 unique verses for 'Covenant/Promise' theme.
+
+SAMPLE VERSES (first 20 matches):
+----------------------------------------
+ 1. Luke 22:14
+    Do this in memory of me.” Likewise, he took the cup after supper, saying, “This cup is the new covenant in my blood, which is poured out for you.
+
+ 2. Ephesians 6:1
+    Children, obey your parents in the Lord, for this is right. “Honor your father and mother,” which is the first commandment with a promise: “that it may be well with you, and you may live long on the earth.” You fathers, don’t provoke your children to wrath, but nurture them in the discipline and instruction of the Lord.
+
+ 3. The Prayer of Manasses King of Judah when He was Held Captive in Babylon 1:2
+    Your merciful promise is unmeasurable and unsearchable, for you are the Lord Most High, of great compassion, patient and abundant in mercy, and relent at human suffering.
+
+ 4. The Prayer of Manasses King of Judah when He was Held Captive in Babylon 1:3
+    You, O Lord, according to your great goodness have promised repentance and forgiveness to those who have sinned against you.
+
+ 5. Psalms 109:26
+    He didn’t delight in blessing, and it was far from him.
+
+ 6. Nehemiah 10:5
+    The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants, and all those who had separated themselves from the peoples of the lands to the law of God, their wives, their sons, and their daughters—everyone who had knowledge and understanding— joined with their brothers, their nobles, and entered into a curse and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his ordinances and his statutes; and that we would not give our daughters to the peoples of the land, nor take their daughters for our sons; and if the peoples of the land bring wares or any grain on the Sabbath day to sell, that we would not buy from them on the Sabbath, or on a holy day; and that we would forego the seventh year crops and the exaction of every debt.
+
+ 7. 2 Samuel 3:21
+    Abner said to David, “I will arise and go, and will gather all Israel to my lord the king, that they may make a covenant with you, and that you may reign over all that your soul desires.” David sent Abner away; and he went in peace.
+
+ 8. Wisdom 14:24
+    For putting their trust in lifeless idols, when they have sworn a wicked oath, they expect not to suffer harm.
+
+ 9. Wisdom 15:20
+    Yes, and they worship the creatures that are most hateful, for, being compared as to lack of sense, these are worse than all others; Neither, as seen beside other creatures, are they beautiful, so that one should desire them, but they have escaped both the praise of God and his blessing.
+
+10. Paul’s Second Letter to Timothy 1:1
+    Paul, an apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus, to Timothy, my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.
+
+11. Hebrews 7:3
+    They indeed of the sons of Levi who receive the priest’s office have a commandment to take tithes from the people according to the law, that is, of their brothers, though these have come out of the body of Abraham, but he whose genealogy is not counted from them has accepted tithes from Abraham, and has blessed him who has the promises.
+
+12. Hebrews 7:12
+    Inasmuch as he was not made priest without the taking of an oath (for they indeed have been made priests without an oath), but he with an oath by him that says of him, “The Lord swore and will not change his mind, ‘You are a priest forever, according to the order of Melchizedek.’” By so much, Jesus has become the guarantee of a better covenant.
+
+13. Hebrews 7:18
+    For the law appoints men as high priests who have weakness, but the word of the oath, which came after the law, appoints a Son forever who has been perfected.
+
+14. Hebrews 6:4
+    For the land which has drunk the rain that comes often on it and produces a crop suitable for them for whose sake it is also tilled, receives blessing from God; but if it bears thorns and thistles, it is rejected and near being cursed, whose end is to be burned.
+
+15. Hebrews 6:7
+    We desire that each one of you may show the same diligence to the fullness of hope even to the end, that you won’t be sluggish, but imitators of those who through faith and perseverance inherited the promises.
+
+16. Hebrews 6:8
+    For when God made a promise to Abraham, since he could swear by no one greater, he swore by himself, saying, “Surely blessing I will bless you, and multiplying I will multiply you.” Thus, having patiently endured, he obtained the promise.
+
+17. Hebrews 6:9
+    For men indeed swear by a greater one, and in every dispute of theirs the oath is final for confirmation.
+
+18. Hebrews 6:10
+    In this way God, being determined to show more abundantly to the heirs of the promise the immutability of his counsel, interposed with an oath, that by two immutable things, in which it is impossible for God to lie, we may have a strong encouragement, who have fled for refuge to take hold of the hope set before us.
+
+19. Sirach 20:31
+    There is one who for bashfulness makes promises to his friend; and he makes him his enemy for nothing.
+
+20. Psalms 77:19
+    Does his promise fail for generations?
+
+... and 673 more matches.
+
+COMPLEX PATTERN MATCHES:
+----------------------------------------
+Pattern 1: (?:new|everlasting|eternal)\s+covenant
+Matches: 32
+  1. Luke 22:14 - Do this in memory of me.” Likewise, he took the cup after supper, saying, “This cup is the new coven...
+  2. Jeremiah 32:32 - I will make an everlasting covenant with them, that I will not turn away from following them, to do ...
+  3. 1 Corinthians 11:33 - Do this in memory of me.” In the same way he also took the cup after supper, saying, “This cup is th...
+  4. 2 Esdras 3:13 - You loved, and to him only you showed the end of the times secretly by night, and made an everlastin...
+  5. Ezekiel 16:57 - Nevertheless I will remember my covenant with you in the days of your youth, and I will establish an...
+  ... and 27 more.
+
+Pattern 2: (?:promise|oath)\s+(?:to|of)\s+(?:Abraham|David|Israel)
+Matches: 3
+  1. Hebrews 6:8 - For when God made a promise to Abraham, since he could swear by no one greater, he swore by himself,...
+  2. The Second Book of Chronicles 1:8 - Now, LORD God, let your promise to David my father be established; for you have made me king over a ...
+  3. Romans 4:13 - For the promise to Abraham and to his offspring that he would be heir of the world wasn’t through th...
+
+Pattern 3: (?:make|establish)\s+a\s+covenant
+Matches: 18
+  1. 2 Samuel 3:21 - Abner said to David, “I will arise and go, and will gather all Israel to my lord the king, that they...
+  2. Genesis 26:35 - We said, ‘Let there now be an oath between us, even between us and you, and let’s make a covenant wi...
+  3. Exodus 34:9 - He said, “If now I have found favor in your sight, Lord, please let the Lord go among us, even thoug...
+  4. Exodus 34:12 - Be careful, lest you make a covenant with the inhabitants of the land where you are going, lest it b...
+  5. The First Book of the Maccabees 1:13 - In those days transgressors of the law came out of Israel and persuaded many, saying, “Let’s go make...
+  ... and 13 more.
+
+Total pattern matches: 53
+
+================================================================================
+
+THEME 2: SIN AND REDEMPTION/SALVATION
+========================================
+
+Keywords searched: sin, transgression, iniquity, redeem, redemption, save, salvation, atonement, sacrifice, grace, faith, forgive
+
+Found 3585 unique verses for 'Sin/Redemption' theme.
+
+SAMPLE VERSES (first 30 matches):
+----------------------------------------
+ 1. Acts 21:2
+    Having found a ship crossing over to Phoenicia, we went aboard and set sail.
+
+ 2. Acts 21:46
+    Aren’t you then the Egyptian who before these days stirred up to sedition and led out into the wilderness the four thousand men of the Assassins?” But Paul said, “I am a Jew from Tarsus in Cilicia, a citizen of no insignificant city.
+
+ 3. Acts 20:19
+    When they had come to him, he said to them, “You yourselves know, from the first day that I set foot in Asia, how I was with you all the time, serving the Lord with all humility, with many tears, and with trials which happened to me by the plots of the Jews; how I didn’t shrink from declaring to you anything that was profitable, teaching you publicly and from house to house, testifying both to Jews and to Greeks repentance toward God and faith toward our Lord Jesus.
+
+ 4. Acts 20:21
+    But these things don’t count; nor do I hold my life dear to myself, so that I may finish my race with joy, and the ministry which I received from the Lord Jesus, to fully testify to the Good News of the grace of God. “Now, behold, I know that you all, among whom I went about preaching God’s Kingdom, will see my face no more.
+
+ 5. Acts 20:27
+    Now, brothers, I entrust you to God and to the word of his grace, which is able to build up and to give you the inheritance among all those who are sanctified.
+
+ 6. 2 Chronicles 2:6
+    But who is able to build him a house, since heaven and the heaven of heavens can’t contain him?
+
+ 7. Psalms 140:15
+    LORD, the Lord, the strength of my salvation, you have covered my head in the day of battle.
+
+ 8. John’s Third Letter 1:5
+    Beloved, you do a faithful work in whatever you accomplish for those who are brothers and strangers.
+
+ 9. John’s Third Letter 1:10
+    Therefore, if I come, I will call attention to his deeds which he does, unjustly accusing us with wicked words.
+
+10. Psalms 141:5
+    Let my prayer be set before you like incense; the lifting up of my hands like the evening sacrifice.
+
+11. Psalms 141:8
+    Don’t incline my heart to any evil thing, to practice deeds of wickedness with men who work iniquity.
+
+12. Psalms 141:15
+    Keep me from the snare which they have laid for me, from the traps of the workers of iniquity.
+
+13. 2 Esdras 13:27
+    This is the interpretation: He that will endure the peril in that time will protect those who fall into danger, even those who have works and faith toward the Almighty.
+
+14. Lamentations 5:11
+    Our fathers sinned, and are no more.
+
+15. Lamentations 5:26
+    Woe to us, for we have sinned!
+
+16. The Revelation to John 1:3
+    John, to the seven assemblies that are in Asia: Grace to you and peace from God, who is and who was and who is to come; and from the seven Spirits who are before his throne; and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth.
+
+17. The Revelation to John 1:4
+    To him who loves us, and washed us from our sins by his blood— and he made us to be a Kingdom, priests to his God and Father—to him be the glory and the dominion forever and ever.
+
+18. Luke 22:7
+    The day of unleavened bread came, on which the Passover must be sacrificed.
+
+19. Luke 22:24
+    You will sit on thrones, judging the twelve tribes of Israel.” The Lord said, “Simon, Simon, behold, Satan asked to have all of you, that he might sift you as wheat, but I prayed for you, that your faith wouldn’t fail.
+
+20. Lamentations 4:8
+    The tongue of the nursing child clings to the roof of his mouth for thirst.
+
+21. Lamentations 4:12
+    For the iniquity of the daughter of my people is greater than the sin of Sodom, which was overthrown as in a moment.
+
+22. Lamentations 4:30
+    It is because of the sins of her prophets and the iniquities of her priests, that have shed the blood of the just in the middle of her.
+
+23. Lamentations 4:41
+    In our watching we have watched for a nation that could not save.
+
+24. Lamentations 4:52
+    The punishment of your iniquity is accomplished, daughter of Zion.
+
+25. Lamentations 4:54
+    He will visit your iniquity, daughter of Edom.
+
+26. Lamentations 4:55
+    He will uncover your sins.
+
+27. 2 Esdras 12:28
+    You saw two under wings passing over to the head that is on the right side.
+
+28. 2 Esdras 12:30
+    This is the brief reign that was full of trouble, as you saw. “The lion, whom you saw rising up out of the forest, roaring, speaking to the eagle, and rebuking her for her unrighteousness, and all her words which you have heard, this is the anointed one, whom the Most High has kept to the end of days, who will spring up out of the seed of David, and he will come and speak to them and reprove them for their wickedness and unrighteousness, and will heap up before them their contemptuous dealings.
+
+29. 2 Esdras 12:40
+    For of all the prophets, only you are left to us, like a cluster of the vintage, and like a lamp in a dark place, and like a harbor for a ship saved from the tempest.
+
+30. Luke 23:7
+    The chief priests and the scribes stood, vehemently accusing him.
+
+... and 3555 more matches.
+
+
+================================================================================
+
+THEME 3: PROPHECY AND FULFILLMENT
+========================================
+
+Keywords searched: prophecy, prophet, foretold, fulfill, Messiah, Christ, virgin, born, Bethlehem, pierced, crucified, resurrected
+
+Found 1601 unique verses for 'Prophecy/Fulfillment' theme.
+
+SAMPLE VERSES (first 25 matches):
+----------------------------------------
+ 1. Acts 21:14
+    Now this man had four virgin daughters who prophesied.
+
+ 2. Acts 21:15
+    As we stayed there some days, a certain prophet named Agabus came down from Judea.
+
+ 3. Acts 21:32
+    But concerning the Gentiles who believe, we have written our decision that they should observe no such thing, except that they should keep themselves from food offered to idols, from blood, from strangled things, and from sexual immorality.” Then Paul took the men, and the next day purified himself and went with them into the temple, declaring the fulfillment of the days of purification, until the offering was offered for every one of them.
+
+ 4. Lamentations 5:12
+    We have borne their iniquities.
+
+ 5. Lamentations 5:17
+    They ravished the women in Zion, the virgins in the cities of Judah.
+
+ 6. The Revelation to John 1:1
+    This is the Revelation of Jesus Christ, which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel to his servant, John, who testified to God’s word and of the testimony of Jesus Christ, about everything that he saw.
+
+ 7. The Revelation to John 1:2
+    Blessed is he who reads and those who hear the words of the prophecy, and keep the things that are written in it, for the time is near.
+
+ 8. The Revelation to John 1:3
+    John, to the seven assemblies that are in Asia: Grace to you and peace from God, who is and who was and who is to come; and from the seven Spirits who are before his throne; and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth.
+
+ 9. The Revelation to John 1:6
+    Behold, he is coming with the clouds, and every eye will see him, including those who pierced him.
+
+10. The Revelation to John 1:8
+    Even so, Amen. “I am the Alpha and the Omega,” says the Lord God, “who is and who was and who is to come, the Almighty.” I John, your brother and partner with you in the oppression, Kingdom, and perseverance in Christ Jesus, was on the isle that is called Patmos because of God’s Word and the testimony of Jesus Christ.
+
+11. Luke 22:13
+    He said to them, “I have earnestly desired to eat this Passover with you before I suffer, for I tell you, I will no longer by any means eat of it until it is fulfilled in God’s Kingdom.” He received a cup, and when he had given thanks, he said, “Take this and share it among yourselves, for I tell you, I will not drink at all again from the fruit of the vine, until God’s Kingdom comes.” He took bread, and when he had given thanks, he broke and gave it to them, saying, “This is my body which is given for you.
+
+12. Luke 22:27
+    For I tell you that this which is written must still be fulfilled in me: ‘He was counted with transgressors.’ For that which concerns me is being fulfilled.” They said, “Lord, behold, here are two swords.” He said to them, “That is enough.” He came out and went, as his custom was, to the Mount of Olives.
+
+13. Luke 22:50
+    As soon as it was day, the assembly of the elders of the people were gathered together, both chief priests and scribes, and they led him away into their council, saying, “If you are the Christ, tell us.” But he said to them, “If I tell you, you won’t believe, and if I ask, you will in no way answer me or let me go.
+
+14. Lamentations 4:30
+    It is because of the sins of her prophets and the iniquities of her priests, that have shed the blood of the just in the middle of her.
+
+15. Lamentations 4:44
+    Our days are fulfilled, for our end has come.
+
+16. 2 Esdras 12:40
+    For of all the prophets, only you are left to us, like a cluster of the vintage, and like a lamp in a dark place, and like a harbor for a ship saved from the tempest.
+
+17. Luke 23:2
+    They began to accuse him, saying, “We found this man perverting the nation, forbidding paying taxes to Caesar, and saying that he himself is Christ, a king.” Pilate asked him, “Are you the King of the Jews?” He answered him, “So you say.” Pilate said to the chief priests and the multitudes, “I find no basis for a charge against this man.” But they insisted, saying, “He stirs up the people, teaching throughout all Judea, beginning from Galilee even to this place.” But when Pilate heard Galilee mentioned, he asked if the man was a Galilean.
+
+18. Luke 23:20
+    I will therefore chastise him and release him.” But they were urgent with loud voices, asking that he might be crucified.
+
+19. Luke 23:28
+    When they came to the place that is called “The Skull”, they crucified him there with the criminals, one on the right and the other on the left.
+
+20. Luke 23:32
+    Let him save himself, if this is the Christ of God, his chosen one!” The soldiers also mocked him, coming to him and offering him vinegar, and saying, “If you are the King of the Jews, save yourself!” An inscription was also written over him in letters of Greek, Latin, and Hebrew: “THIS IS THE KING OF THE JEWS.” One of the criminals who was hanged insulted him, saying, “If you are the Christ, save yourself and us!” But the other answered, and rebuking him said, “Don’t you even fear God, seeing you are under the same condemnation?
+
+21. Ephesians 6:2
+    Servants, be obedient to those who according to the flesh are your masters, with fear and trembling, in singleness of your heart, as to Christ, not in the way of service only when eyes are on you, as men pleasers, but as servants of Christ, doing the will of God from the heart, with good will doing service as to the Lord and not to men, knowing that whatever good thing each one does, he will receive the same good again from the Lord, whether he is bound or free.
+
+22. Ephesians 6:13
+    Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ.
+
+23. Ephesians 6:14
+    Grace be with all those who love our Lord Jesus Christ with incorruptible love.
+
+24. Isaiah 3:1
+    For, behold, the Lord, GOD of Armies, takes away from Jerusalem and from Judah supply and support, the whole supply of bread, and the whole supply of water; the mighty man, the man of war, the judge, the prophet, the diviner, the elder, the captain of fifty, the honorable man, the counselor, the skilled craftsman, and the clever enchanter.
+
+25. The Prayer of Manasses King of Judah when He was Held Captive in Babylon 1:1
+    O LORD Almighty in heaven, God of our fathers Abraham, Isaac, and Jacob, and of their righteous offspring, you who have made heaven and earth, with all their order, who have bound the sea by the word of your commandment, who have shut up the deep, and sealed it by your terrible and glorious name, whom all things fear, yes, tremble before your power, for the majesty of your glory can’t be borne, and the anger of your threatening toward sinners is unbearable.
+
+... and 1576 more matches.
+
+
+================================================================================
+
+EXPLICIT BIBLICAL CROSS-REFERENCES
+========================================
+
+Similarity threshold: 0.7
+
+Detected 48 explicit cross-reference pairs.
+
+TOP CROSS-REFERENCES (sorted by similarity score):
+------------------------------------------------------------
+ 1. Acts 27:10 -> 'Paul' (Romans)
+    Similarity Score: 1.000
+    Verse: When much time had passed and the voyage was now dangerous because the Fast had now already gone by, Paul admonished them and said to them, “Sirs, I p...
+
+ 2. Luke 24:37 -> 'law of Moses' (Deuteronomy)
+    Similarity Score: 1.000
+    Verse: He said to them, “This is what I told you while I was still with you, that all things which are written in the law of Moses, the prophets, and the psa...
+
+ 3. Acts 13:41 -> 'Paul' (Romans)
+    Similarity Score: 1.000
+    Verse: But when the Jews saw the multitudes, they were filled with jealousy, and contradicted the things which were spoken by Paul, and blasphemed.
+
+ 4. Daniel (Greek) 9:10 -> 'law of Moses' (Deuteronomy)
+    Similarity Score: 1.000
+    Verse: As it is written in the law of Moses, all this evil has come on us.
+
+ 5. The Acts of the Apostles 1:14 -> 'book of Psalms' (Psalms)
+    Similarity Score: 1.000
+    Verse: It became known to everyone who lived in Jerusalem that in their language that field was called ‘Akeldama,’ that is, ‘The field of blood.’ For it is w...
+
+ 6. 2 Chronicles 23:25 -> 'law of Moses' (Deuteronomy)
+    Similarity Score: 1.000
+    Verse: Jehoiada appointed the officers of the LORD’s house under the hand of the Levitical priests, whom David had distributed in the LORD’s house, to offer ...
+
+ 7. Tobit 6:14 -> 'law of Moses' (Deuteronomy)
+    Similarity Score: 1.000
+    Verse: When we return from Rages we will celebrate the marriage; for I know that Raguel may in no way marry her to another according to the law of Moses, or ...
+
+ 8. 2 Chronicles 35:36 -> 'lamentations' (Lamentations)
+    Similarity Score: 1.000
+    Verse: Behold, they are written in the lamentations.
+
+ 9. Acts 16:15 -> 'Paul' (Romans)
+    Similarity Score: 1.000
+    Verse: The Lord opened her heart to listen to the things which were spoken by Paul.
+
+10. Luke 20:36 -> 'Psalms' (Psalms)
+    Similarity Score: 1.000
+    Verse: David himself says in the book of Psalms, ‘The Lord said to my Lord, “Sit at my right hand, until I make your enemies the footstool of your feet.”’ “D...
+
+11. Daniel 9:10 -> 'law of Moses' (Deuteronomy)
+    Similarity Score: 1.000
+    Verse: As it is written in the law of Moses, all this evil has come on us.
+
+12. Daniel (Greek) 13:3 -> 'law of Moses' (Deuteronomy)
+    Similarity Score: 1.000
+    Verse: Her parents were also righteous, and taught their daughter according to the law of Moses.
+
+13. 1 Corinthians 9:14 -> 'law of Moses' (Deuteronomy)
+    Similarity Score: 1.000
+    Verse: For it is written in the law of Moses, “You shall not muzzle an ox while it treads out the grain.” Is it for the oxen that God cares, or does he say i...
+
+14. Nehemiah 8:1 -> 'law of Moses' (Deuteronomy)
+    Similarity Score: 1.000
+    Verse: All the people gathered themselves together as one man into the wide place that was in front of the water gate; and they spoke to Ezra the scribe to b...
+
+15. John 19:18 -> 'Hebrew' (Hebrews)
+    Similarity Score: 0.923
+    Verse: There was written, “JESUS OF NAZARETH, THE KING OF THE JEWS.” Therefore many of the Jews read this title, for the place where Jesus was crucified was ...
+
+16. Exodus 32:22 -> 'word of Moses' (Deuteronomy)
+    Similarity Score: 0.800
+    Verse: He said to them, “The LORD, the God of Israel, says, ‘Every man put his sword on his thigh, and go back and forth from gate to gate throughout the cam...
+
+17. Leviticus 10:6 -> 'word of Moses' (Deuteronomy)
+    Similarity Score: 0.800
+    Verse: You shall not go out from the door of the Tent of Meeting, lest you die; for the anointing oil of the LORD is on you.” They did according to the word ...
+
+18. Exodus 8:9 -> 'word of Moses' (Deuteronomy)
+    Similarity Score: 0.800
+    Verse: The LORD did according to the word of Moses, and the frogs died out of the houses, out of the courts, and out of the fields.
+
+19. Exodus 8:28 -> 'word of Moses' (Deuteronomy)
+    Similarity Score: 0.800
+    Verse: The LORD did according to the word of Moses, and he removed the swarms of flies from Pharaoh, from his servants, and from his people.
+
+20. Exodus 12:40 -> 'word of Moses' (Deuteronomy)
+    Similarity Score: 0.800
+    Verse: The children of Israel did according to the word of Moses; and they asked of the Egyptians jewels of silver, and jewels of gold, and clothing.
+
+21. Numbers 29:8 -> 'ir number' (Numbers)
+    Similarity Score: 0.750
+    Verse: You shall offer a burnt offering, an offering made by fire, of a pleasant aroma to the LORD: thirteen young bulls, two rams, fourteen male lambs a yea...
+
+22. Numbers 29:8 -> 'ir number' (Numbers)
+    Similarity Score: 0.750
+    Verse: You shall offer a burnt offering, an offering made by fire, of a pleasant aroma to the LORD: thirteen young bulls, two rams, fourteen male lambs a yea...
+
+23. Numbers 29:8 -> 'ir number' (Numbers)
+    Similarity Score: 0.750
+    Verse: You shall offer a burnt offering, an offering made by fire, of a pleasant aroma to the LORD: thirteen young bulls, two rams, fourteen male lambs a yea...
+
+24. Numbers 29:8 -> 'ir number' (Numbers)
+    Similarity Score: 0.750
+    Verse: You shall offer a burnt offering, an offering made by fire, of a pleasant aroma to the LORD: thirteen young bulls, two rams, fourteen male lambs a yea...
+
+25. Numbers 29:8 -> 'ir number' (Numbers)
+    Similarity Score: 0.750
+    Verse: You shall offer a burnt offering, an offering made by fire, of a pleasant aroma to the LORD: thirteen young bulls, two rams, fourteen male lambs a yea...
+
+... and 23 more cross-references.
+
+
+================================================================================
+
+MOST COMMON NAMES/PLACES
+========================================
+
+TOP 50 MOST FREQUENT NAMES/PLACES:
+----------------------------------------
+Rank Name                 Frequency 
+----------------------------------------
+1    Lord                 8472      
+2    God                  4903      
+3    Israel               2836      
+4    David                1167      
+5    Jerusalem            1031      
+6    Jesus                1000      
+7    Judah                896       
+8    Moses                893       
+9    Don                  872       
+10   Egypt                674       
+11   Christ               562       
+12   Jews                 445       
+13   King                 431       
+14   Jacob                429       
+15   Saul                 426       
+16   Aaron                368       
+17   Babylon              366       
+18   Spirit               325       
+19   Solomon              318       
+20   Father               289       
+21   Armies               286       
+22   Levites              286       
+23   Pharaoh              286       
+24   Son                  284       
+25   Abraham              281       
+26   Philistines          266       
+27   Joseph               261       
+28   Joshua               226       
+29   Jonathan             219       
+30   Jordan               208       
+31   Daniel               197       
+32   Zion                 196       
+33   High                 195       
+34   Holy                 188       
+35   Ephraim              183       
+36   Moab                 179       
+37   Tent                 175       
+38   Benjamin             174       
+39   Come                 173       
+40   Take                 167       
+41   Judas                167       
+42   Blessed              162       
+43   Peter                162       
+44   Paul                 161       
+45   Simon                161       
+46   Jeremiah             157       
+47   Sabbath              153       
+48   Isaac                151       
+49   Whoever              150       
+50   Moreover             148       
+
+================================================================================
+
+SUMMARY STATISTICS
+========================================
+
+Covenant/Promise verses found: 746
+Sin/Redemption verses found: 3,585
+Prophecy/Fulfillment verses found: 1,601
+Cross-references detected: 48
+Most common name/place: Lord (8472 occurrences)
+Thematic coverage: 5,373 verses (12.6% of total)
+
+================================================================================
+================================================================================
